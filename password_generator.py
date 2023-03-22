@@ -2,7 +2,6 @@
 
 import os
 from tkinter import *
-from tkinter.ttk import *
 from tkinter import messagebox
 import random
 import string
